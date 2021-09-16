@@ -1,2 +1,2 @@
 @keyframes rainbow{ 0%{color:red;} 50%{color:green;} 100%{color:blue;} }
-.rainbow{ animation: rainbow 3s infinite; }
+.rainbow{ animation: rainbow 5s infinite; }

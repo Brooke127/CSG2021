@@ -1,5 +1,6 @@
 @keyframes rainbow{ 0%{color:red;} 50%{color:green;} 100%{color:blue;} }
 .rainbow{ animation: rainbow 5s infinite; }
-.p{
-    style="vertical-align: middle;"
-}
+#div {
+    display: table-cell;
+    vertical-align: middle;
+    }

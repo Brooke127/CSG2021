@@ -5,3 +5,25 @@
     color:pink;
     
 }
+.rainbow{
+    text-align:center;
+    font: size 500%;
+    
+}
+.fancy{
+    text-align:center;
+    font: size 200%;;
+    color:white;
+}
+.grey {
+    background-color:darkgray;
+}
+.red {
+
+}
+
+.image {
+    background-image: url("https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/rainbow_sky_fb.jpg");    
+    background-size: cover;
+    background-position: center;
+    height: 1000px;

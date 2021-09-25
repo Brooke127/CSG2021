@@ -20,9 +20,11 @@
     color:white;
     
 }
-.backgroundimage{
-    background-image:url('img_girl.jpg');
+
+body{
+    background-image: url('https://wallpapertag.com/wallpaper/full/a/8/a/792609-beautiful-rainbow-stars-backgrounds-1920x1080.jpg');
 }
+
 .grey {
     background-color:rgba(169, 169, 169, 0.527);
     color:black;

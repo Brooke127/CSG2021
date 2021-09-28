@@ -13,6 +13,7 @@
     font-size: 75px;
     background-color:rgba(245, 245, 245, 0.384);
 }
+
 .age{
     text-align:center;
     font-size:65px;
@@ -81,10 +82,12 @@ body{
 .movies {
     text-align:center;
     background-color:rgba(255, 255, 255, 0.726);
-    background-image: linear-gradient(to top, violet, indigo, blue, green, yellow, orange, red);
+    background-image: linear-gradient(to top, violet, rgb(135, 70, 182), rgb(25, 125, 207), rgb(10, 177, 10), yellow, orange, red);
 }
 
-
+.end{
+    color: white
+}
 
 .image {
     background-image: url("https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/rainbow_sky_fb.jpg");    

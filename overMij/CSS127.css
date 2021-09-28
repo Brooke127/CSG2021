@@ -13,19 +13,23 @@ body{
 .rainbow{
     text-align:center;
     font-size: 75px;
-    background-color:rgba(245, 245, 245, 0.384);
+    background-color:rgba(240, 240, 240, 0.356);
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 .age{
     text-align:center;
     font-size:65px;
-    background-color:rgba(245, 245, 245, 0.384);
+    background-color:rgba(240, 240, 240, 0.356);
     color:white;
-    
+    margin-left: 610px;
+    margin-right: 610px;
+    margin-top: -75px;
 }
 
 .grey {
-    background-color:rgba(169, 169, 169, 0.527);
+    background-color:rgba(240, 240, 240, 0.459);
     color:black;
     text-align:center;
 }
@@ -81,10 +85,15 @@ body{
     text-align:center;
     background-color:rgba(255, 255, 255, 0.726);
     background-image: linear-gradient(to top, violet, rgb(135, 70, 182), rgb(25, 125, 207), rgb(10, 177, 10), yellow, orange, red);
+    margin-left: 550px;
+    margin-right: 550px;
 }
 
 .end{
-    color: white
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 1720px;
 }
 
 .image {

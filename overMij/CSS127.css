@@ -1,8 +1,10 @@
 @keyframes rainbow{ 0%{color:red;} 50%{color:green;} 100%{color:blue;} }
 .rainbow{ animation: rainbow 5s infinite; }
 
-@keyframes age{ 0%{color:red;} 50%{color:green;} 100%{color:blue;} }
-.rainbow{ animation: rainbow 5s infinite; }
+body{
+    background-image: url('https://wallpapertag.com/wallpaper/full/a/8/a/792609-beautiful-rainbow-stars-backgrounds-1920x1080.jpg');
+}
+
 .h1{
     color:pink;
     
@@ -20,10 +22,6 @@
     background-color:rgba(245, 245, 245, 0.384);
     color:white;
     
-}
-
-body{
-    background-image: url('https://wallpapertag.com/wallpaper/full/a/8/a/792609-beautiful-rainbow-stars-backgrounds-1920x1080.jpg');
 }
 
 .grey {

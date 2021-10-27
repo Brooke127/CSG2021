@@ -12,12 +12,6 @@ body {
     padding-top: 1%;
 }
 
-#vogel {
-    width: 225px;
-    height: auto;
-}
-
-
 .horizontaal {
     margin:  auto;
     background-color: rgb(142, 217, 236);
@@ -37,6 +31,10 @@ a {
 }
 
 a:hover, li:hover {
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(250, 137, 241);
     font-variant: small-caps;
+}
+
+.Flags {
+    font-size: 30px;
 }

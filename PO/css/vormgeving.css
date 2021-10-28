@@ -37,7 +37,7 @@ a:hover, li:hover {
 }
 
 .Flags {
-    font-size: 30px;
+    font-size: 28px;
 }
 
 .flagz {
@@ -51,3 +51,28 @@ a:hover, li:hover {
     margin-right: 200px;
 }
 
+.Flagzs {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.flagzBi {
+    width: 180px;
+    height: 120px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100px;
+    margin-top:-130px;
+    margin-bottom: 40px;
+    margin-left: 850px;
+    margin-right: 200px;
+}
+
+.flagzGay {
+    width: 180px;
+    height: 120px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100px;
+    margin-top:-200px;
+    margin-bottom: 70px;
+    margin-left: 850px;
+    margin-right: 200px;
+}

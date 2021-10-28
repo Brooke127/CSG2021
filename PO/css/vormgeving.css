@@ -2,20 +2,26 @@ html, body {
     padding: 0;
     margin: 0;
 }
+
+
 body {
-    background: hsl(177, 94%, 80%);
+    background-image: url(" https://th.bing.com/th/id/R.26a495ed428d8a1ddb34dc71feea4a40?rik=MP8IyQJsiFUn6A&riu=http%3a%2f%2f1.bp.blogspot.com%2f-Oq2L9kW6wJg%2fUUVCGwNCrsI%2fAAAAAAAAOCk%2fjpX0lU57n0k%2fs1600%2fwallpaper-clouds-sky-rainbow-desktop-wallpaper.jpg&ehk=ekkNgyhB5pdD8I1aK33e5E45JZ2ZB22n1Nvv6Y3PSzg%3d&risl=&pid=ImgRaw&r=0"); 
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
     color: #000000;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     size: 14px;
     width: 1150px;
-    padding-left: 20%;
+    padding-left: 15%;
     padding-right: 10%;
     padding-top: 1%;
+    font-weight: bold;
 }
 
 .horizontaal {
-    margin-bottom: 90px;
-    background-color: rgb(97, 147, 241);
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.658);
     float:inline-start;
     font-size: 40px;
     border-radius: 100px
@@ -24,47 +30,54 @@ body {
 .horizontaal li {
     display: inline-block;
     text-align: center;
-    margin: 30px 20px;
+    margin: 30px 10px;
 }
 
 a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
-a:hover, li:hover {
+li:hover {
     background-color: rgb(250, 137, 241);
     font-variant: small-caps;
+    border-radius: 40px;
+    font-size: 27px;
 }
-
+a:hover {
+    background-color: rgb(250, 137, 241);
+    font-variant: small-caps;
+    font-size: 50px;
+    border-radius: 10%;
+}
 .Flags {
     font-size: 28px;
-    padding-left: 10%;
+    padding-left: 0%;
 }
 
 .flagz {
     width: 180px;
     height: 120px;
     border: 20px solid rgba(255, 255, 255, 0.5);
-    border-radius: 100px;
-    margin-top:-180px;
+    border-radius: 30px;
+    margin-top:-100px;
     margin-bottom: 150px;
-    margin-left: 850px;
+    margin-left: 1060px;
     margin-right: 200px;
 }
 
 .Flagzs {
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
 }
 .flagzBi {
     width: 190px;
     height: 140px;
     border: 20px solid rgba(255, 255, 255, 0.5);
-    border-radius: 100px;
-    margin-top: -320px;
+    border-radius: 30px;
+    margin-top: -330px;
     margin-bottom: 1px;
-    margin-left: 850px;
+    margin-left: 1060px;
     margin-right: 200px;
 }
 
@@ -72,10 +85,10 @@ a:hover, li:hover {
     width: 190px;
     height: 140px;
     border: 20px solid rgba(255, 255, 255, 0.5);
-    border-radius: 100px;
+    border-radius: 30px;
     margin-top:-200px;
     margin-bottom: 40px;
-    margin-left: 850px;
+    margin-left: 1060px;
     margin-right: 200px;
 }
 
@@ -83,11 +96,31 @@ a:hover, li:hover {
     width: 190px;
     height: 140px;
     border: 20px solid rgba(255, 255, 255, 0.5);
-    border-radius: 100px;
-    margin-top:-1000px;
-    margin-bottom: 70px;
-    margin-left: 850px;
+    border-radius: 30px;
+    margin-top:-1060px;
+    margin-bottom: 50px;
+    margin-left: 1060px;
     margin-right: 200px;
 }
 
+.flagzPan {
+    width: 180px;
+    height: 120px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    margin-top:-170px;
+    margin-bottom: 50px;
+    margin-left: 1060px;
+    margin-right: 200px;
+}
 
+.flagzQueer {
+    width: 180px;
+    height: 120px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    margin-top: -240px;
+    margin-bottom: 65px;
+    margin-left: 1060px;
+    margin-right: 200px;
+}

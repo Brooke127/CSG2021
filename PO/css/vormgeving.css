@@ -7,23 +7,24 @@ body {
     color: #000000;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     size: 14px;
-    padding-left: 10%;
+    width: 1150px;
+    padding-left: 20%;
     padding-right: 10%;
     padding-top: 1%;
 }
 
 .horizontaal {
-    margin:  auto;
+    margin-bottom: 90px;
     background-color: rgb(97, 147, 241);
     float:inline-start;
     font-size: 40px;
-    border-radius: 200px
+    border-radius: 100px
 }
 
 .horizontaal li {
     display: inline-block;
     text-align: center;
-    margin: 0px 20px;
+    margin: 30px 20px;
 }
 
 a {
@@ -38,6 +39,7 @@ a:hover, li:hover {
 
 .Flags {
     font-size: 28px;
+    padding-left: 10%;
 }
 
 .flagz {
@@ -52,27 +54,40 @@ a:hover, li:hover {
 }
 
 .Flagzs {
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 40%;
+    padding-right: 40%;
 }
 .flagzBi {
-    width: 180px;
-    height: 120px;
+    width: 190px;
+    height: 140px;
     border: 20px solid rgba(255, 255, 255, 0.5);
     border-radius: 100px;
-    margin-top:-130px;
-    margin-bottom: 40px;
+    margin-top: -320px;
+    margin-bottom: 1px;
     margin-left: 850px;
     margin-right: 200px;
 }
 
 .flagzGay {
-    width: 180px;
-    height: 120px;
+    width: 190px;
+    height: 140px;
     border: 20px solid rgba(255, 255, 255, 0.5);
     border-radius: 100px;
     margin-top:-200px;
+    margin-bottom: 40px;
+    margin-left: 850px;
+    margin-right: 200px;
+}
+
+.flagzLesbian {
+    width: 190px;
+    height: 140px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100px;
+    margin-top:-1000px;
     margin-bottom: 70px;
     margin-left: 850px;
     margin-right: 200px;
 }
+
+

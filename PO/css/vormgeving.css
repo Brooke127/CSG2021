@@ -39,7 +39,7 @@ a {
 }
 
 li:hover {
-    background-color: rgb(250, 137, 241);
+    background-color: rgb(250, 137, 240);
     font-variant: small-caps;
     border-radius: 40px;
     font-size: 27px;
@@ -62,7 +62,7 @@ a:hover {
     border-radius: 30px;
     margin-top:-100px;
     margin-bottom: 150px;
-    margin-left: 1060px;
+    margin-left: 1100px;
     margin-right: 200px;
 }
 
@@ -76,7 +76,7 @@ a:hover {
     border: 20px solid rgba(255, 255, 255, 0.5);
     border-radius: 30px;
     margin-top: -330px;
-    margin-bottom: 1px;
+    margin-bottom: 37px;
     margin-left: 1060px;
     margin-right: 200px;
 }
@@ -122,5 +122,49 @@ a:hover {
     margin-top: -240px;
     margin-bottom: 65px;
     margin-left: 1060px;
+    margin-right: 200px;
+}
+
+.flagzCis {
+    width: 190px;
+    height: 140px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    margin-top: -280px;
+    margin-bottom: 50px;
+    margin-left: 1100px;
+    margin-right: 200px;
+}
+
+.flagzFluid {
+    width: 190px;
+    height: 140px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    margin-top: -320px;
+    margin-bottom: 93px;
+    margin-left: 1100px;
+    margin-right: 200px;
+}
+
+.flagzGenderQ {
+    width: 190px;
+    height: 140px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    margin-top: -320px;
+    margin-bottom: 74px;
+    margin-left: 1100px;
+    margin-right: 200px;
+}
+
+.flagzInter {
+    width: 180px;
+    height: 120px;
+    border: 20px solid rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    margin-top:-100px;
+    margin-bottom: 150px;
+    margin-left: 1100px;
     margin-right: 200px;
 }
